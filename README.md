@@ -63,16 +63,33 @@ Every interface I build is designed to be fast, intuitive, and visually polished
 <br/>
 
 <!-- ===================== TECH STACK ===================== -->
+<h2 align="left">💻 Tech Stack & Tools</h2>
 
-<h2 align="center">🛠 Tech Stack</h2>
+<!-- Front-End -->
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,bootstrap,vite,git,github,nodejs,npm,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,bootstrap,vite,nodejs,npm,figma" />
 </p>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=laravel,php,mysql,git,github" />
+</p>
 <br/>
 
-<!-- ===================== GITHUB STATS ===================== -->
+<h2 align="left">🧠 Computer Science Fundamentals</h2>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/CS50-Introduction-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OOP-Object_Oriented-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DSA-Data_Structures-yellow?style=for-the-badge" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/C++-Language-blue?style=for-the-badge&logo=cplusplus" />
+  <img src="https://img.shields.io/badge/C%23-Language-green?style=for-the-badge&logo=csharp" />
+  <img src="https://img.shields.io/badge/Python-Language-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
 
 
 <!-- ===================== MINDSET ===================== -->
@@ -89,5 +106,3 @@ Every interface I build is designed to be fast, intuitive, and visually polished
 <p align="center">
   <b>✨ Turning ideas into elegant digital experiences ✨</b>
 </p>
-
-<br/>
