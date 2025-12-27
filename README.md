@@ -1,9 +1,38 @@
-<h1 align="center">Hi 👋, I'm Ebrahim</h1>
-<h3 align="center">Front-End Developer | React.js</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?
+    font=Fira+Code&
+    size=35&
+    duration=3000&
+    pause=800&
+    color=0E75B6&
+    center=true&
+    vCenter=true&
+    width=500&
+    lines=Hi+👋%2C+I'm+Ebrahim;Front-End+Developer;React.js+Specialist"
+  />
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?
+    font=Fira+Code&
+    size=18&
+    duration=2500&
+    pause=1200&
+    color=7FDBCA&
+    center=true&
+    width=500&
+    lines=Clean+UI+%7C+Modern+UX;Pixel+Perfect+Interfaces;Performance+First"
+  />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=EbrahimAmer207&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e75b6,100:7FDBCA&height=2&section=header" />
+</p>
+
 
 
 <hr/>
