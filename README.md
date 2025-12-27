@@ -1,13 +1,15 @@
+<!-- ===================== HERO SECTION ===================== -->
+
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?
     font=Fira+Code&
-    size=35&
+    size=36&
     duration=3000&
-    pause=800&
+    pause=900&
     color=0E75B6&
     center=true&
     vCenter=true&
-    width=500&
+    width=550&
     lines=Hi+👋%2C+I'm+Ebrahim;Front-End+Developer;React.js+Specialist"
   />
 </h1>
@@ -20,8 +22,8 @@
     pause=1200&
     color=7FDBCA&
     center=true&
-    width=500&
-    lines=Clean+UI+%7C+Modern+UX;Pixel+Perfect+Interfaces;Performance+First"
+    width=600&
+    lines=Clean+UI+%7C+Modern+UX;Pixel-Perfect+Interfaces;Performance-First+Development"
   />
 </p>
 
@@ -30,22 +32,30 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e75b6,100:7FDBCA&height=2&section=header" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e75b6,100:7FDBCA&height=2" />
 </p>
 
+<br/>
 
-<hr/>
+<!-- ===================== ABOUT ME ===================== -->
 
-<h3 align="center">👨‍💻 About Me</h3>
+<h2 align="center">👨‍💻 About Me</h2>
 
 <p align="center">
-Front-End Developer specialized in building <b>modern, responsive, and high-performance interfaces</b>.<br/>
-I focus on <b>clean code</b>, <b>pixel-perfect UI</b>, and <b>great user experience</b> using modern technologies.
+I'm a <b>Front-End Developer</b> passionate about crafting <b>modern, responsive, and high-performance user interfaces</b>.<br/>
+I specialize in turning designs into <b>pixel-perfect</b>, interactive web experiences using modern front-end technologies.
 </p>
 
----
+<p align="center">
+I care deeply about <b>clean code</b>, <b>performance</b>, and <b>user experience</b>.<br/>
+Every interface I build is designed to be fast, intuitive, and visually polished.
+</p>
 
-<h3 align="center">🌐 Connect With Me</h3>
+<br/>
+
+<!-- ===================== SOCIAL LINKS ===================== -->
+
+<h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
   <a href="https://facebook.com/EbrahimAmer">
@@ -62,27 +72,54 @@ I focus on <b>clean code</b>, <b>pixel-perfect UI</b>, and <b>great user experie
   </a>
 </p>
 
----
+<br/>
 
-<h3 align="center">🛠 Tech Stack</h3>
+<!-- ===================== TECH STACK ===================== -->
+
+<h2 align="center">🛠 Tech Stack</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,bootstrap,vite,git,github,nodejs,npm,figma" />
 </p>
 
+<br/>
 
----
+<!-- ===================== GITHUB STATS ===================== -->
 
-
-<h3 align="center">✨ Front-End Mindset</h3>
+<h2 align="center">📊 GitHub Activity</h2>
 
 <p align="center">
-✔ Clean UI & UX<br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=EbrahimAmer207&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=EbrahimAmer207&theme=radical&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EbrahimAmer207&layout=compact&theme=radical&hide_border=true" width="48%" />
+</p>
+
+<br/>
+
+<!-- ===================== MINDSET ===================== -->
+
+<h2 align="center">✨ Front-End Mindset</h2>
+
+<p align="center">
+✔ Clean & scalable UI architecture<br/>
+✔ Pixel-perfect implementation<br/>
 ✔ Performance-focused development<br/>
-✔ Scalable component-based architecture<br/>
-✔ Attention to detail
+✔ Attention to details that matter
 </p>
 
 <p align="center">
   <b>✨ Turning ideas into elegant digital experiences ✨</b>
+</p>
+
+<br/>
+
+<!-- ===================== SNAKE ===================== -->
+
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/EbrahimAmer207/EbrahimAmer207/output/github-contribution-grid-snake-dark.svg" />
 </p>
