@@ -1,6 +1,11 @@
 
 <!-- ===================== HERO SECTION ===================== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:7FDBCA&height=200&section=header&text=Ebrahim%20Amer&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:7FDBCA&height=200&section=header&text=Ebrahim%20Amer&fontSize=42&fontColor=ffffff&animation=fadeIn"
+    style="max-width: 100%;"
+  />
+</p>
 
 <h3 align="center">Front-End Developer | React.js</h3>
 
@@ -15,6 +20,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e75b6,100:7FDBCA&height=3" />
 </p>
+
 <br/>
 
 <!-- ===================== ABOUT ME ===================== -->
