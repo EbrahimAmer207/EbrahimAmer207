@@ -72,18 +72,6 @@ Every interface I build is designed to be fast, intuitive, and visually polished
 
 <!-- ===================== GITHUB STATS ===================== -->
 
-<h2 align="center">📊 GitHub Activity</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EbrahimAmer207&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=EbrahimAmer207&theme=radical&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EbrahimAmer207&layout=compact&theme=radical&hide_border=true" width="48%" />
-</p>
-
-<br/>
 
 <!-- ===================== MINDSET ===================== -->
 
@@ -101,11 +89,3 @@ Every interface I build is designed to be fast, intuitive, and visually polished
 </p>
 
 <br/>
-
-<!-- ===================== SNAKE ===================== -->
-
-<h2 align="center">🐍 Contribution Snake</h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/EbrahimAmer207/EbrahimAmer207/output/github-contribution-grid-snake-dark.svg" />
-</p>
