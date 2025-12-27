@@ -7,10 +7,12 @@
   />
 </p>
 
-<h3 align="center">Front-End Developer | React.js</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=40&duration=2800&pause=900&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Ebrahim;Front-End+Developer;React.js+Specialist" />
+</h1>
 
 <p align="center">
-  Crafting modern, responsive & high-performance interfaces
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=2400&pause=1200&color=7FDBCA&center=true&vCenter=true&width=650&lines=Clean+UI+%7C+Modern+UX;Pixel-Perfect+Interfaces;Performance-First+Development" />
 </p>
 
 <p align="center">
@@ -20,7 +22,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e75b6,100:7FDBCA&height=3" />
 </p>
-
 <br/>
 
 <!-- ===================== ABOUT ME ===================== -->
