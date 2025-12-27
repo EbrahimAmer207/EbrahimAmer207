@@ -7,7 +7,7 @@
 <br/>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=40&duration=2800&pause=900&color=0E75B6&center=true&vCenter=true&width=650&lines=Hi,+I'm+Ebrahim;Front-End+Developer;React.js+Specialist;Clean+UI+%7C+Modern+UX" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=40&duration=2800&pause=900&color=0E75B6&center=true&vCenter=true&width=650&lines=Hi,+I'm+Ebrahim Amer;Front-End+Developer;React.js+Specialist;Clean+UI+%7C+Modern+UX" />
 </h1>
 
 
