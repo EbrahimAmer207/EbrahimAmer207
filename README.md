@@ -1,14 +1,11 @@
 
 <!-- ===================== HERO SECTION ===================== -->
 <p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:7FDBCA&height=200&section=header&text=Ebrahim%20Amer&fontSize=42&fontColor=ffffff&animation=fadeIn"
-    style="max-width: 100%;"
-  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:7FDBCA&height=200&section=header&text=Ebrahim%20Amer&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=2400&pause=1200&color=7FDBCA&center=true&vCenter=true&width=650&lines=Hi+👋,+I'm+Ebrahim;Front-End+Developer;React.js+Specialist" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7FDBCA,100:0e75b6&height=40&section=header&text=Front-End%20Developer%20%7C%20React.js&fontSize=20&fontColor=ffffff&animation=blink" />
 </p>
 
 <p align="center">
@@ -19,6 +16,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e75b6,100:7FDBCA&height=3" />
 </p>
 <br/>
+
 
 
 <!-- ===================== ABOUT ME ===================== -->
