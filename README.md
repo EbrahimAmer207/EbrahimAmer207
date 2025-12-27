@@ -44,13 +44,7 @@ I focus on <b>clean code</b>, <b>pixel-perfect UI</b>, and <b>great user experie
 
 
 ---
-<h3 align="center">🐍 Contribution Snake</h3>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/EbrahimAmer207/EbrahimAmer207/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
 
 <h3 align="center">✨ Front-End Mindset</h3>
 
