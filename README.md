@@ -78,13 +78,13 @@ Every interface I build is designed to be fast, intuitive, and visually polished
 
 <h2 align="left">🧠 Computer Science Fundamentals</h2>
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/CS50-Introduction-black?style=for-the-badge" />
   <img src="https://img.shields.io/badge/OOP-Object_Oriented-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/DSA-Data_Structures-yellow?style=for-the-badge" />
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/C++-Language-blue?style=for-the-badge&logo=cplusplus" />
   <img src="https://img.shields.io/badge/C%23-Language-green?style=for-the-badge&logo=csharp" />
   <img src="https://img.shields.io/badge/Python-Language-3776AB?style=for-the-badge&logo=python&logoColor=white" />
