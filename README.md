@@ -4,9 +4,12 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:7FDBCA&height=200&section=header&text=Ebrahim%20Amer&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7FDBCA,100:0e75b6&height=40&section=header&text=Front-End%20Developer%20%7C%20React.js&fontSize=20&fontColor=ffffff&animation=blink" />
-</p>
+<br/>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=40&duration=2800&pause=900&color=0E75B6&center=true&vCenter=true&width=650&lines=Hi,+I'm+Ebrahim;Front-End+Developer;React.js+Specialist;Clean+UI+%7C+Modern+UX" />
+</h1>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=EbrahimAmer207&label=Profile%20Views&color=0e75b6&style=flat" />
