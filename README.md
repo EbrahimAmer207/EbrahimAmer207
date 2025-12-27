@@ -5,9 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=EbrahimAmer207&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
-<p align="center">
-  <img src="https://github.com/EbrahimAmer207.png" width="180" style="border-radius:50%" />
-</p>
 
 <hr/>
 
@@ -26,13 +23,13 @@ I focus on <b>clean code</b>, <b>pixel-perfect UI</b>, and <b>great user experie
   <a href="https://facebook.com/EbrahimAmer">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/YOUR_USERNAME">
+  <a href="https://instagram.com/ebrahim_amer_207">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/YOUR_USERNAME">
+  <a href="https://linkedin.com/in/ebrahim-amer0">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:himaamer937@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
