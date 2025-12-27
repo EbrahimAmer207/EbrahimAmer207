@@ -1,5 +1,9 @@
 # 💫 About Me:
- Hi! I'm Ebrahim, a Fullstack developer with solid knowledge in front-end technologies (HTML, CSS, JavaScript, React.js) and hands-on experience in back-end development using Laravel. I have practical experience in building responsive and dynamic web applications. I’m passionate about creating clean, modern, and user-friendly websites that help clients bring their ideas to life. Working with me means getting reliable communication, attention to detail, and a strong focus on delivering high-quality results that meet your goals and enhance your online presence.
+Hi! I'm Ebrahim, a Front-End Developer with strong expertise in HTML, CSS, JavaScript, and React.js. I have hands-on experience building responsive, modern, and high-performance user interfaces that deliver smooth and engaging user experiences across all devices.
+
+I focus on writing clean, maintainable code and translating designs into pixel-perfect, interactive web pages. I'm passionate about creating visually appealing and user-friendly websites that help clients turn their ideas into real, functional products.
+
+Working with me means clear communication, attention to detail, and a strong commitment to quality, ensuring every project meets its goals and leaves a lasting impression.
 
 
 ## 🌐 Socials:
