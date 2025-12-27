@@ -70,7 +70,7 @@ Every interface I build is designed to be fast, intuitive, and visually polished
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,bootstrap,vite,nodejs,npm,figma" />
 </p>
-
+<br/>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=laravel,php,mysql,git,github" />
 </p>
