@@ -42,18 +42,6 @@ I focus on <b>clean code</b>, <b>pixel-perfect UI</b>, and <b>great user experie
   <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,bootstrap,vite,git,github,nodejs,npm,figma" />
 </p>
 
----
-
-<h3 align="center">📊 GitHub Analytics</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EbrahimAmer207&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://streak-stats.demolab.com?user=EbrahimAmer207&theme=radical" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EbrahimAmer207&layout=compact&theme=radical" width="48%"/>
-</p>
 
 ---
 <h3 align="center">🐍 Contribution Snake</h3>
