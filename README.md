@@ -7,9 +7,8 @@
   />
 </p>
 
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=2400&pause=1200&color=7FDBCA&center=true&vCenter=true&width=650&linesHi+👋,+I'm+Ebrahim;Front-End+Developer;React.js+Specialist" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=2400&pause=1200&color=7FDBCA&center=true&vCenter=true&width=650&lines=Hi+👋,+I'm+Ebrahim;Front-End+Developer;React.js+Specialist" />
 </p>
 
 <p align="center">
@@ -20,6 +19,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e75b6,100:7FDBCA&height=3" />
 </p>
 <br/>
+
 
 <!-- ===================== ABOUT ME ===================== -->
 
