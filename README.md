@@ -1,6 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:7FDBCA&height=200&section=header&text=Ebrahim%20Amer&fontSize=42&fontColor=ffffff&animation=fadeIn" />
-
-
 
 <!-- ===================== HERO SECTION ===================== -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:7FDBCA&height=200&section=header&text=Ebrahim%20Amer&fontSize=42&fontColor=ffffff&animation=fadeIn" />
