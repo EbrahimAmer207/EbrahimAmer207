@@ -46,9 +46,6 @@ Every interface I build is designed to be fast, intuitive, and visually polished
 <h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
-  <a href="https://facebook.com/EbrahimAmer">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
   <a href="https://instagram.com/ebrahim_amer_207">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
